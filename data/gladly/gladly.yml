@@ -1,0 +1,13 @@
+name: "Gladly"
+description: "Gladly is a customer service platform that centers on people rather than tickets, offering a unified conversation view across voice, email, chat, and social with AI assistance. It serves enterprise brands with per-agent pricing."
+source_url: "https://www.gladly.com/"
+category: "Omnichannel Support Suites"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "unified-conversations"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.gladly.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.gladly.com/>\n"
+updated_at: "2026-11-21 00:43"

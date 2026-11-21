@@ -1,0 +1,13 @@
+name: "LiveAgent"
+description: "LiveAgent is a multi-channel help desk software with ticketing, live chat, call center, knowledge base, and social media integration. It offers a free plan for small teams and paid tiers with advanced features and per-agent pricing."
+source_url: "https://www.liveagent.com/"
+category: "Help Desk & Ticketing"
+tags:
+  - "freemium"
+  - "api"
+  - "omnichannel"
+  - "live-chat"
+  - "call-center"
+icon_url: "https://icons.duckduckgo.com/ip3/www.liveagent.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.liveagent.com/>\n"
+updated_at: "2026-11-21 00:43"

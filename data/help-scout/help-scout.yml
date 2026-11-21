@@ -1,0 +1,13 @@
+name: "Help Scout"
+description: "Help Scout is a shared inbox and help desk platform designed for customer support teams, offering email management, knowledge base, live chat, and reporting. It focuses on simplicity and team collaboration with per-user pricing and a free trial."
+source_url: "https://www.helpscout.com/"
+category: "Shared Inbox"
+tags:
+  - "paid"
+  - "api"
+  - "shared-inbox"
+  - "knowledge-base"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/www.helpscout.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.helpscout.com/>\n"
+updated_at: "2026-11-21 00:43"

@@ -1,0 +1,13 @@
+name: "Request Tracker (RT)"
+description: "Request Tracker (RT) is an enterprise-grade open-source ticketing system written in Perl, offering workflow automation, custom fields, and extensive extensibility. It is self-hosted under GPL-2.0 with commercial support available."
+source_url: "https://bestpractical.com/rt"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "gpl-2-0"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/bestpractical.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://bestpractical.com/rt>\n- Repository: <https://github.com/bestpractical/rt>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 00:43"

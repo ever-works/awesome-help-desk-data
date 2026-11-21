@@ -1,0 +1,13 @@
+name: "Chatwoot"
+description: "Chatwoot is an open-source omnichannel customer engagement platform supporting live chat, email, Facebook, WhatsApp, and more with chatbots, automation, and a shared inbox. It can be self-hosted or used via cloud, licensed under MIT."
+source_url: "https://www.chatwoot.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "omnichannel"
+  - "mit"
+icon_url: "https://icons.duckduckgo.com/ip3/www.chatwoot.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.chatwoot.com/>\n- Repository: <https://github.com/chatwoot/chatwoot>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:43"

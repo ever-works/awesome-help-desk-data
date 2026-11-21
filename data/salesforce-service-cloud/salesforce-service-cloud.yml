@@ -1,0 +1,13 @@
+name: "Salesforce Service Cloud"
+description: "Salesforce Service Cloud is an enterprise-grade omnichannel customer service platform with case management, AI-powered Einstein, field service, and deep CRM integration. It targets large organizations with per-user pricing and extensive customization."
+source_url: "https://www.salesforce.com/service"
+category: "Omnichannel Support Suites"
+tags:
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "crm-integration"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.salesforce.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.salesforce.com/service>\n"
+updated_at: "2026-11-21 00:43"

@@ -1,0 +1,13 @@
+name: "SysAid"
+description: "SysAid is an IT service management and help desk solution with ticketing, asset management, remote control, and automation, available as cloud or on-premise. It serves mid-market to enterprise with per-technician pricing."
+source_url: "https://www.sysaid.com/"
+category: "IT Help Desk"
+tags:
+  - "paid"
+  - "api"
+  - "itsm"
+  - "asset-management"
+  - "on-premise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sysaid.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.sysaid.com/>\n"
+updated_at: "2026-11-21 00:43"

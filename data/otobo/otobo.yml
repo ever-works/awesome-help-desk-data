@@ -1,0 +1,13 @@
+name: "OTOBO"
+description: "OTOBO is an open-source IT service management and help desk software forked from OTRS, offering ticketing, process management, CMDB, and ITIL-aligned workflows. It is self-hosted under AGPL-3.0 with professional support options."
+source_url: "https://otobo.io/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "agpl-3-0"
+  - "itsm"
+icon_url: "https://icons.duckduckgo.com/ip3/otobo.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://otobo.io/>\n- Repository: <https://github.com/OTOBOR/otobo>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 00:43"

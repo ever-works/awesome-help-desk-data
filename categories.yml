@@ -1,0 +1,12 @@
+- id: help-desk-and-ticketing
+  name: "Help Desk & Ticketing"
+- id: shared-inbox
+  name: "Shared Inbox"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: omnichannel-support-suites
+  name: "Omnichannel Support Suites"
+- id: ai-first-help-desks
+  name: "AI-First Help Desks"
+- id: it-help-desk
+  name: "IT Help Desk"

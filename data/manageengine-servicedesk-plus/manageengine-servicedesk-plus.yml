@@ -1,0 +1,13 @@
+name: "ManageEngine ServiceDesk Plus"
+description: "ManageEngine ServiceDesk Plus is an ITIL-ready help desk software with incident, problem, change, and asset management, available in cloud and on-premise editions. It targets IT teams with tiered pricing and a free edition for up to 5 technicians."
+source_url: "https://www.manageengine.com/products/service-desk"
+category: "IT Help Desk"
+tags:
+  - "freemium"
+  - "api"
+  - "itsm"
+  - "itil"
+  - "asset-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.manageengine.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.manageengine.com/products/service-desk>\n"
+updated_at: "2026-11-21 00:43"

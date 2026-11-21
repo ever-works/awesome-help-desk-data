@@ -1,0 +1,13 @@
+name: "ServiceNow"
+description: "ServiceNow is an enterprise IT service management platform offering incident, problem, change, and asset management with AI-powered automation, workflow engine, and extensive integrations. It targets large enterprises with custom pricing."
+source_url: "https://www.servicenow.com/products/it-service-management.html"
+category: "IT Help Desk"
+tags:
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "itsm"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.servicenow.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.servicenow.com/products/it-service-management.html>\n"
+updated_at: "2026-11-21 00:43"

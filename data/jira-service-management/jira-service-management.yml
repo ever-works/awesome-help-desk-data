@@ -1,0 +1,13 @@
+name: "Jira Service Management"
+description: "Jira Service Management is an IT service management (ITSM) platform from Atlassian that provides incident, problem, change, and request management with automation, CMDB, and integration with Jira Software. It offers free tier for up to 3 agents and paid plans."
+source_url: "https://www.atlassian.com/software/jira/service-management"
+category: "IT Help Desk"
+tags:
+  - "freemium"
+  - "api"
+  - "itsm"
+  - "atlassian-ecosystem"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.atlassian.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.atlassian.com/software/jira/service-management>\n"
+updated_at: "2026-11-21 00:43"

@@ -1,0 +1,13 @@
+name: "Faveo Helpdesk"
+description: "Faveo Helpdesk is an open-source ticketing system built with Laravel, offering SLA management, knowledge base, custom fields, and REST API. It provides a free community edition under AGPL-3.0 and paid enterprise editions with additional modules."
+source_url: "https://faveohelpdesk.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "agpl-3-0"
+  - "laravel"
+icon_url: "https://icons.duckduckgo.com/ip3/faveohelpdesk.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://faveohelpdesk.com/>\n- Repository: <https://github.com/faveohelpdesk/faveo-helpdesk>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 00:43"

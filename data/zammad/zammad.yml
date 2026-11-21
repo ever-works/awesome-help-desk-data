@@ -1,0 +1,13 @@
+name: "Zammad"
+description: "Zammad is an open-source help desk and ticketing system with email, chat, phone, and social media integration, offering a modern UI, automation, and knowledge base. It can be self-hosted or used via cloud hosting, licensed under AGPL-3.0."
+source_url: "https://zammad.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "omnichannel"
+  - "agpl-3-0"
+icon_url: "https://icons.duckduckgo.com/ip3/zammad.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://zammad.org/>\n- Repository: <https://github.com/zammad/zammad>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 00:43"

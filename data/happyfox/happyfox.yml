@@ -1,0 +1,13 @@
+name: "HappyFox"
+description: "HappyFox is a cloud-based help desk and ticketing system with multi-channel support, knowledge base, asset management, and automation. It serves SMBs and enterprises with per-agent pricing and a free trial."
+source_url: "https://www.happyfox.com/"
+category: "Help Desk & Ticketing"
+tags:
+  - "paid"
+  - "api"
+  - "knowledge-base"
+  - "asset-management"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/www.happyfox.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.happyfox.com/>\n"
+updated_at: "2026-11-21 00:43"

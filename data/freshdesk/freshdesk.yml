@@ -1,0 +1,13 @@
+name: "Freshdesk"
+description: "Freshdesk is a cloud-based help desk software with ticketing, automation, knowledge base, and omnichannel support including email, phone, chat, and social media. It offers a free plan for small teams and paid tiers with advanced features. Targeted at SMBs and enterprises."
+source_url: "https://freshdesk.com/"
+category: "Help Desk & Ticketing"
+tags:
+  - "freemium"
+  - "api"
+  - "omnichannel"
+  - "automation"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/freshdesk.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://freshdesk.com/>\n"
+updated_at: "2026-11-21 00:43"

@@ -1,0 +1,13 @@
+name: "UVdesk"
+description: "UVdesk is an open-source help desk platform built on Symfony, providing ticketing, knowledge base, email piping, and e-commerce integrations. It offers a community edition under MIT license and a cloud-hosted version with paid plans."
+source_url: "https://www.uvdesk.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "mit"
+  - "e-commerce"
+icon_url: "https://icons.duckduckgo.com/ip3/www.uvdesk.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.uvdesk.com/>\n- Repository: <https://github.com/uvdesk/community-skeleton>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:43"

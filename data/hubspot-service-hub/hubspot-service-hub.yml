@@ -1,0 +1,13 @@
+name: "HubSpot Service Hub"
+description: "HubSpot Service Hub is a help desk and customer service platform integrated with HubSpot CRM, offering ticketing, knowledge base, live chat, and automation. It provides a free tier with limited features and paid plans for scaling teams."
+source_url: "https://www.hubspot.com/products/service"
+category: "Help Desk & Ticketing"
+tags:
+  - "freemium"
+  - "api"
+  - "crm-integration"
+  - "knowledge-base"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/www.hubspot.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.hubspot.com/products/service>\n"
+updated_at: "2026-11-21 00:43"

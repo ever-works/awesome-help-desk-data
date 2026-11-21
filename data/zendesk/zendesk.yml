@@ -1,0 +1,13 @@
+name: "Zendesk"
+description: "Zendesk is a cloud-based omnichannel customer service platform offering ticketing, live chat, knowledge base, and AI-powered automation. It serves businesses of all sizes with scalable plans and extensive integrations. Pricing is per agent per month with a free trial."
+source_url: "https://www.zendesk.com/"
+category: "Omnichannel Support Suites"
+tags:
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "omnichannel"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zendesk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.zendesk.com/>\n"
+updated_at: "2026-11-21 00:43"
